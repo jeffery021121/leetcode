@@ -24,6 +24,7 @@ console.log(brr)
 };
 let nums1 = [1, 2, 3, 4, 5, 6]
 let nums2 = [1, 2, 3, 4, 5, 6]
+// 测试代码库
 findMedianSortedArrays(nums1, nums2)
 // @lc code=end
 
